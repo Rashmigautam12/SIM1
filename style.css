@@ -1,0 +1,52 @@
+.h1{
+    text-decoration: underline;
+    text-align: center;
+    color: goldenrod;
+    background-color: antiquewhite;
+}
+
+
+body{
+    background-image: url(back.png);
+    background-color: rgb(203, 199, 194);
+    font-family: 'Roboto', sans-serif;
+}
+
+#hello{
+    
+    justify-content: center;
+    display: flex;
+     height: 200px;
+     width: 300px;
+     align-items: center;
+     margin-top: 150px;
+     margin-left: 450px;
+}
+
+#back{
+      font-size: 30px;
+      background-color: rgb(255, 255, 255);
+      height: 200px;
+      width: 300px;
+      text-align: center;
+      justify-content: center;
+    
+}
+button{
+  margin-left: 100px;
+  text-align: center;
+  display: block;
+  color: white;
+  font-size: 25px;
+  justify-content: center;
+  background-color: black; 
+}
+
+
+
+
+
+
+
+
+
